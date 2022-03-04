@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm LorraineFG</h1>
-<p align = "center">Graduanda em Analise e Desenvolvimento de Sistemas</p>
+<p align = "center">Estudante de Analise e Desenvolvimento de Sistemas</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorrainefg&label=Profile%20views&color=0e75b6&style=flat" alt="lorrainefg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lorrainefg" target="blank"><img src="https://img.shields.io/twitter/follow/lorrainefg?logo=twitter&style=for-the-badge" alt="lorrainefg" /></a> </p>
 
-- 🌱 Atualmente meu foco está em **Python e Django Framework**
+- 🌱 Meu objetivo é atuar em **BackEnd e Dados**
 
 - 📫 email: **lorrainefreitas.amb@gmail.com**
 
