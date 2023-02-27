@@ -4,24 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorrainefg&label=Profile%20views&color=0e75b6&style=flat" alt="lorrainefg" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lorrainefg" target="blank"><img src="https://img.shields.io/twitter/follow/lorrainefg?logo=twitter&style=for-the-badge" alt="lorrainefg" /></a> </p>
-
-- 🌱 Estágiaria de DEVOPS | SRE | Stilingue.IA
+- 🌱 Estágiaria de It Solutions | DevOps | Stilingue.IA | TakeBlip
 
 - 📫 email: **lorrainefreitas.amb@gmail.com**
 
-- 📄 Formada em Engenharia Ambiental
+- 📄 Graduanda em Analises e Desenvolvimento de Sistemas
 
 
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-  <a href="https://www.instagram.com/_lorrainefg" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/USERNAME"></a
+  <a href="https://www.linkedin.com/in/lorrainefg" alt="Linekdin" target="_blank">
+  <img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-white-logo-transparent-background-31623962286lx7yrezhte.png" width="180" height="50"></a>
   
-  <a href="https://linkedin.com/in/lorrainefg" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
 
 <h3 align="left">Principais Habilidades</h3>
 <p align="left"> 
