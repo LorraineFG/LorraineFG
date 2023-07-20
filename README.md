@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorrainefg&label=Profile%20views&color=0e75b6&style=flat" alt="lorrainefg" /> </p>
 
-- 🌱 Estágiaria de It Solutions | DevOps | Stilingue.IA | TakeBlip
+- 🌱 Analista de It Solutions | DevOps | Stilingue.IA | Blip.ai
 
 - 📫 email: **lorrainefreitas.amb@gmail.com**
 
