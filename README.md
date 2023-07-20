@@ -25,7 +25,5 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lorrainefg&show_icons=true&theme=dracula" alt="lorrainefg"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrainefg&layout=compact)" alt="lorrainefg"/>
 
 
